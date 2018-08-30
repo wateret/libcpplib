@@ -55,7 +55,7 @@ int main() {
   for (auto e : myclass) {
     std::cout << e << std::endl;
   }
-  std::cout std::endl;
+  std::cout << std::endl;
 
   // Prints "1 2 3"
 
